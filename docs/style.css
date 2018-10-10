@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body
+{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+section {
+    padding: 1px;
+}
+
+section > .container {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+
+#design_and_technology {
+    color: white;
+
+    background-image:  
+    linear-gradient(to right, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)),
+    url(images/chicken_wire.jpg);
+    background-size: cover;
+    background-position: 50%;
+    
+}
+
+#madlib {
+    font-size: 2rem;
+}
+
+
+#manifesto {
+    background-color: #CCC;
+    color: black;
+}
