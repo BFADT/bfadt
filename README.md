@@ -1,2 +1,2 @@
-# bfadt
-BFA Design + Technology Website
+# BFA DT
+Parsons BFA Design + Technology Website
